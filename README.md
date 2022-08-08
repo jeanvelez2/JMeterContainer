@@ -5,10 +5,10 @@
 4. Upload JMeter_TEST.jmx and entrypoint.sh files in the AWS S3 Bucket.
 5. Start Docker on your local machine.
 6. Setup AWS CLI profile.
-a. Reference: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+- Reference: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
 7. Execute the commands from the following sections:
-a. Build Image
-b. Run Container
+- Build Image
+- Run Container
 8. View Results and Logs in AWS S3 Bucket.
 
 # Sections:
